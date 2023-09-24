@@ -5,14 +5,14 @@ Overview
 
 Results
 - Model 1:
-- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
-- 94% Accuracy
-- 95% Recall
+-- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
+-- 94% Accuracy
+-- 95% Recall
 
 - Model 2:
-- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
-- 100% Accuracy
-- 100% Recall
+-- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
+-- 100% Accuracy
+-- 100% Recall
 
 Summary
 - Model 2 had less false prediction of the data and would be the better model to use due to it's higher accuracy and recall.
