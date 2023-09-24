@@ -5,12 +5,12 @@ Overview
 
 Results
  - Model 1:
--- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
+ 93% Precision (Low-Risk: 100%, High-Risk: 87%)
 -- 94% Accuracy
 -- 95% Recall
 
 - Model 2:
--- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
+ 93% Precision (Low-Risk: 100%, High-Risk: 87%)
 -- 100% Accuracy
 -- 100% Recall
 
