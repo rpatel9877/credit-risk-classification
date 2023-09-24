@@ -4,7 +4,7 @@ Overview
 - The data was then resampled using RandomOverSampler. The resampled data was then used to create the second Logistic Regression Model. This model also had the same goal of determining if a loan was high or low-risk.
 
 Results
- Model 1:
+ - Model 1:
 -- 93% Precision (Low-Risk: 100%, High-Risk: 87%)
 -- 94% Accuracy
 -- 95% Recall
